@@ -7,7 +7,7 @@ CoPoKo Time
 
 ## License
 
-[GPL 3.0 Only](https://github.com/CoPoKo/Wormhole/blob/main/LICENSE)
+[GPL 3.0 Only](https://github.com/CoPoKo/Time/blob/main/LICENSE)
 
 ## Copyright Notice
 
