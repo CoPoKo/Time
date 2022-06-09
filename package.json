@@ -1,0 +1,26 @@
+{
+  "name": "@copoko/time",
+  "version": "0.0.1",
+  "description": "CoPoKo Time",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CoPoKo/Time.git"
+  },
+  "author": "CoPoKo Team",
+  "keywords": [
+    "CoPoKo",
+    "Time"
+  ],
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/CoPoKo/Time/issues"
+  },
+  "homepage": "https://github.com/CoPoKo/Time#readme",
+  "dependencies": {
+
+  }
+}
