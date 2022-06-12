@@ -1,6 +1,6 @@
 {
   "name": "@copoko/time",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "CoPoKo Time",
   "main": "index.js",
   "scripts": {
@@ -20,7 +20,5 @@
     "url": "https://github.com/CoPoKo/Time/issues"
   },
   "homepage": "https://github.com/CoPoKo/Time#readme",
-  "dependencies": {
-
-  }
+  "dependencies": {}
 }
